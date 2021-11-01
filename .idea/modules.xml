@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/MVC/.idea/MVC.iml" filepath="$USER_HOME$/DataspellProjects/MVC/.idea/MVC.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/SnowflakeWebApp/.idea/SnowflakeWebApp.iml" filepath="$USER_HOME$/DataspellProjects/SnowflakeWebApp/.idea/SnowflakeWebApp.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/SnowflakeWebApp2/.idea/SnowflakeWebApp2.iml" filepath="$USER_HOME$/DataspellProjects/SnowflakeWebApp2/.idea/SnowflakeWebApp2.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/SDTM test/.idea/SnowflakeWebApp2old.iml" filepath="$USER_HOME$/DataspellProjects/SDTM test/.idea/SnowflakeWebApp2old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/external_apps.iml" filepath="$PROJECT_DIR$/.idea/external_apps.iml" />
+    </modules>
+  </component>
+</project>
