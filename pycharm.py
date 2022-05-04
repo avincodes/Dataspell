@@ -132,3 +132,5 @@ class PyCharmCEApp(BasePyCharmApp):
             is_installation_enabled=False,
             **kwargs
         )
+
+#%%
