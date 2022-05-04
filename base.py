@@ -101,3 +101,7 @@ class BaseInstallableApp(BaseApp, ABC):
         """Install app."""
         # this method should be implement only if self.install_enabled == True
         raise NotImplementedError
+
+#%%
+
+#%%
